@@ -1,5 +1,5 @@
 {
-  "name": "@theashishgavade/server",
+  "name": "@theashishgavade-1/server",
   "private": true,
   "scripts": {
     "start": "nest start",
